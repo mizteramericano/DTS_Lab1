@@ -1,0 +1,5 @@
+001,AAA,20,Arts,3.0,A
+002,BBB,21,Arts,2.8,B
+003,CCC,21,Arts,1.2,C
+004,DDD,19,Arts,2.85,D
+005,EEE,20,Arts,2.65,E
